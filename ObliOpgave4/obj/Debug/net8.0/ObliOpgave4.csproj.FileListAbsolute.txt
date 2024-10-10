@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\bin\Debug\net8.0\ObliOpgave4.exe
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\bin\Debug\net8.0\ObliOpgave4.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\bin\Debug\net8.0\ObliOpgave4.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\bin\Debug\net8.0\ObliOpgave4.dll
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\bin\Debug\net8.0\ObliOpgave4.pdb
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ObliOpgave4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ObliOpgave4.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ObliOpgave4.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ObliOpgave4.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ObliOpgave4.dll
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\refint\ObliOpgave4.dll
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ObliOpgave4.pdb
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ObliOpgave4.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Teknik projkekter\ObliOpgave4\obj\Debug\net8.0\ref\ObliOpgave4.dll

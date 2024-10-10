@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8AXxKI00N8UdSO7TAmcr7ZAd27NSZlavXZ1yYMuoNKwilogRzaQPGbXAk1siZ7CuZ+unYDxjHEa2k/U5PJK2ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Skrivebord\\Teknik projkekter\\ObliOpgave5\\EchoServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
